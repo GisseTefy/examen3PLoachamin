@@ -1,12 +1,6 @@
 package ec.edu.espe.tercerparcial.examenloachamin.domain;
 
-import java.time.LocalDateTime;
-import java.util.List;
-
 import org.springframework.data.annotation.Id;
-import org.springframework.data.annotation.Version;
-import org.springframework.data.mongodb.core.mapping.Document;
-import org.springframework.data.mongodb.core.mapping.Field;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
