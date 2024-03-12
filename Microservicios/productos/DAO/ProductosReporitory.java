@@ -1,4 +1,4 @@
-package ec.edu.espe.segundoparcial.examenloachamin.dao;
+package ec.edu.espe.tercerparcial.examenloachamin.dao;
 
 import java.util.List;
 
